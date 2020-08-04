@@ -1,0 +1,13 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-self: auto;
+  background-color: cornflowerblue;
+  width: 20vw;
+  height: 90vh
+}
+
+ul {
+  list-style-type: none;
+}

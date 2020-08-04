@@ -1,0 +1,25 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-self: auto;
+  align-items: center;
+  
+  justify-content: center;
+  background-color: lightgoldenrodyellow;
+  width: 80vw;
+  height: 90vh
+}
+
+.squares {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.textContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 50px;
+}
